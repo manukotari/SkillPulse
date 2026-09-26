@@ -2,6 +2,10 @@
 
 **A daily task, learning curve, and upskill tracker for developers — with built-in screen-capture proof-of-work and a real-time analytics dashboard.**
 
+## 🚀 Live
+![Live](https://skill-pulse-sooty.vercel.app/)
+
+
 ![React](https://img.shields.io/badge/React-18%2F19-06B6D4?style=for-the-badge&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6366F1?style=for-the-badge&logo=vite&logoColor=white)
